@@ -12,7 +12,7 @@ int main()
 
 	std::cout << "insert your age :\n";
 	std::cin >> age;
-
+	//hgggg
 	std::cout << "Hello!" << name << ". (" << age << ")";
 
 	return 0;
